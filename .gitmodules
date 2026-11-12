@@ -1,0 +1,12 @@
+[submodule "TP1_Analyse"]
+	path = TP1_Analyse
+	url = https://github.com/ZOPPI-Nicolas-25003515/TP1_Analyse.git
+[submodule "TP2_Developpement-Efficace"]
+	path = TP2_Developpement-Efficace
+	url = https://github.com/ZOPPI-Nicolas-25003515/TP2_Developpement-Efficace.git
+[submodule "TP3_Analyse"]
+	path = TP3_Analyse
+	url = https://github.com/ZOPPI-Nicolas-25003515/TP3_Analyse.git
+[submodule "TP4_Developpement-efficace"]
+	path = TP4_Developpement-efficace
+	url = https://github.com/ZOPPI-Nicolas-25003515/TP4_Developpement-efficace.git
