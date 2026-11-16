@@ -10,3 +10,6 @@
 [submodule "TP4_Developpement-efficace"]
 	path = TP4_Developpement-efficace
 	url = https://github.com/ZOPPI-Nicolas-25003515/TP4_Developpement-efficace.git
+[submodule "TP7_Analyse"]
+	path = TP7_Analyse
+	url = https://github.com/ZOPPI-Nicolas-25003515/TP7_Analyse.git
