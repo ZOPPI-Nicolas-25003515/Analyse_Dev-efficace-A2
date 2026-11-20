@@ -15,7 +15,7 @@
 	url = git@github.com:ZOPPI-Nicolas-25003515/TP5_Analyse.git
 [submodule "TP6_Developpement-efficace"]
 	path = TP6_Developpement-efficace
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP6_Developpement-efficace.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP6_Developpement-efficace.git
 [submodule "TP7_Analyse"]
 	path = TP7_Analyse
 	url = git@github.com:ZOPPI-Nicolas-25003515/TP7_Analyse.git
