@@ -1,21 +1,21 @@
 [submodule "TP1_Analyse"]
 	path = TP1_Analyse
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP1_Analyse.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP1_Analyse.git
 [submodule "TP2_Developpement-Efficace"]
 	path = TP2_Developpement-Efficace
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP2_Developpement-Efficace.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP2_Developpement-Efficace.git
 [submodule "TP3_Analyse"]
 	path = TP3_Analyse
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP3_Analyse.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP3_Analyse.git
 [submodule "TP4_Developpement-efficace"]
 	path = TP4_Developpement-efficace
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP4_Developpement-efficace.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP4_Developpement-efficace.git
 [submodule "TP5_Analyse"]
 	path = TP5_Analyse
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP5_Analyse.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP5_Analyse.git
 [submodule "TP6_Developpement-efficace"]
-	path = TP3_Developpement-efficace
+	path = TP6_Developpement-efficace
 	url = https://github.com/ZOPPI-Nicolas-25003515/TP6_Developpement-efficace.git
 [submodule "TP7_Analyse"]
 	path = TP7_Analyse
-	url = https://github.com/ZOPPI-Nicolas-25003515/TP7_Analyse.git
+	url = git@github.com:ZOPPI-Nicolas-25003515/TP7_Analyse.git
